@@ -59,7 +59,7 @@ if __name__ == "__main__":
     print(f"Рабіна-Карпа для вигаданого підрядка в статті 1: {rk_fictional_time_article_1} секунд")
     print(f"Рабіна-Карпа для вигаданого підрядка в статті 2: {rk_fictional_time_article_2} секунд")
 
-    
+    print('')
     print(f"{'| Algorithm': <20} | {'Existing pattern': <20} | {'Fictional pattern': <20}")
     print(f":{'-'*19} | :{'-'*19} | :{'-'*19}")
 
